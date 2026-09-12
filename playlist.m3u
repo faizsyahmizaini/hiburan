@@ -3,7 +3,7 @@
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/RTM2.png",RTM TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=1
-#EXTINF:-1,TV3 Malaysia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_3.png",TV3 Malaysia
 https://api.dani-dev.co.za/v1/stream/tonton/live/tv3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/TVS.png",TVS Sarawak
 https://api.dani-dev.co.za/v1/stream/mytv/live/tvs
@@ -11,11 +11,11 @@ https://api.dani-dev.co.za/v1/stream/mytv/live/tvs
 https://api.dani-dev.co.za/v1/stream/mytv/live/tvsplus
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/RTM_Okey.png",RTM Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=1
-#EXTINF:-1,NTV7 Didik TV KPM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_7.png",NTV7 Didik TV KPM
 https://api.dani-dev.co.za/v1/stream/tonton/live/ntv7
-#EXTINF:-1,8TV Malaysia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_8.png",8TV Malaysia
 https://api.dani-dev.co.za/v1/stream/tonton/live/8tv
-#EXTINF:-1,TV9 Malaysia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_9.png",TV9 Malaysia
 https://api.dani-dev.co.za/v1/stream/tonton/live/tv9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_DS.png",Drama Sangat
 https://api.dani-dev.co.za/v1/stream/tonton/live/dramasangat

@@ -8,7 +8,7 @@ https://api.dani-dev.co.za/v1/stream/tonton/live/tv3
 #EXTINF:-1,TVS
 https://api.dani-dev.co.za/v1/stream/mytv/live/tvs
 #EXTINF:-1,TVS+
-https://api.dani-dev.co.za/v1/stream/tvsplus/live/tvsplus
+https://api.dani-dev.co.za/v1/stream/mytv/live/tvsplus
 #EXTINF:-1,Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=1
 #EXTINF:-1,NTV7
@@ -22,5 +22,5 @@ https://api.dani-dev.co.za/v1/stream/tonton/live/dramasangat
 #EXTINF:-1,Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=1
 #EXTINF:-1,Astro Awani
-https://www.youtube.com/watch?v=mkVyNaGee8A
+https://resolver-smoky.vercel.app/api/resolve?channel=astroawani
 

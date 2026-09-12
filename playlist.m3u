@@ -1,36 +1,36 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://api.dani-dev.co.za/v1/stream/epg.xml"
-#EXTINF:-1 tvg-id="TV1",TV1
+#EXTM3U x-tvg-url="https://api.dani-dev.co.za/v1/stream/epg.xml"
+#EXTINF:-1 tvg-id="tv1",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
-#EXTINF:-1 tvg-id="TV2",TV2
+#EXTINF:-1 tvg-id="tv2",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=1
-#EXTINF:-1 tvg-id="TV3",TV3
+#EXTINF:-1 tvg-id="tv3",TV3
 https://api.dani-dev.co.za/v1/stream/tonton/live/tv3
-#EXTINF:-1 tvg-id="TVS",TVS
+#EXTINF:-1 tvg-id="tvs",TVS
 https://api.dani-dev.co.za/v1/stream/mytv/live/tvs
-#EXTINF:-1,TVS+
+#EXTINF:-1 tvg-id="tvsplus",TVS+
 https://api.dani-dev.co.za/v1/stream/mytv/live/tvsplus
-#EXTINF:-1 tvg-id="OKEY",Okey
+#EXTINF:-1 tvg-id="tv-okey",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=1
-#EXTINF:-1 tvg-id="DidikTVKPM",NTV7
+#EXTINF:-1 tvg-id="didiktv",NTV7
 https://api.dani-dev.co.za/v1/stream/tonton/live/ntv7
-#EXTINF:-1 tvg-id="8TV",8TV
+#EXTINF:-1 tvg-id="8tv",8TV
 https://api.dani-dev.co.za/v1/stream/tonton/live/8tv
-#EXTINF:-1 tvg-id="TV9",TV9
+#EXTINF:-1 tvg-id="tv9",TV9
 https://api.dani-dev.co.za/v1/stream/tonton/live/tv9
-#EXTINF:-1,Drama Sangat
+#EXTINF:-1 tvg-id="dramasangat",Drama Sangat
 https://api.dani-dev.co.za/v1/stream/tonton/live/dramasangat
-#EXTINF:-1 tvg-id="BeritaRTM",Berita RTM
+#EXTINF:-1 tvg-id="berita-rtm",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=1
-#EXTINF:-1 tvg-id="AstroAwani",Astro Awani
+#EXTINF:-1,Astro Awani
 https://resolver-smoky.vercel.app/api/resolve?channel=astroawani
-#EXTINF:-1 tvg-id="BBCNews",BBC News
+#EXTINF:-1,BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish",Al Jazeera
+#EXTINF:-1 tvg-id="al-jazeera-english-hd",Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="CNA",CNA
+#EXTINF:-1 tvg-id="cna",CNA
 https://api.dani-dev.co.za/v1/stream/mytv/live/cna
-#EXTINF:-1 tvg-id="DW",DW
+#EXTINF:-1 tvg-id="dw",DW
 https://api.dani-dev.co.za/v1/stream/mytv/live/dw
-#EXTINF:-1 tvg-id="Sukan+",Sukan+
+#EXTINF:-1 tvg-id="sukan-rtm",Sukan+
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/HLS/sukan.m3u8?id=4

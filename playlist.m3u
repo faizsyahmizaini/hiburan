@@ -34,4 +34,4 @@ https://api.dani-dev.co.za/v1/stream/mytv/live/nhk-world
 #EXTINF:-1 tvg-id="DW",DW
 https://api.dani-dev.co.za/v1/stream/mytv/live/dw
 #EXTINF:-1 tvg-id="Sukan+",Sukan+
-https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/HLS/sukan.m3u8?id=4|Referer=https://rtmklik.rtm.gov.my/
+https://api.dani-dev.co.za/v1/stream/mytv/live/sukan

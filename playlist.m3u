@@ -21,7 +21,7 @@ https://api.dani-dev.co.za/v1/stream/tonton/live/tv9
 https://api.dani-dev.co.za/v1/stream/tonton/live/dramasangat
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/Berita_RTM.png",Berita RTM / RTM World
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=1
-#EXTINF:-1 tvg-logo="https://resizer-vortals.eco.astro.com.my/tr:w-64px,h-64px,q-80,f-webp/https://media.astroawani.com/awani/media/uploads/logo/2025-11/astroawani_logo.webp",Astro Awani Malaysia
+#EXTINF:-1 tvg-logo="https://resizer-vortals.eco.astro.com.my/tr:w-64px,h-64px,q-80,f-webp/https://media.astroawani.com/awani/media/uploads/logo/2025-11/astroawani_logo.webp",Awani
 https://resolver-smoky.vercel.app/api/resolve?channel=astroawani
 #EXTINF:-1,BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8

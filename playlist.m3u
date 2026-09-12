@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://api.dani-dev.co.za/v1/stream/epg.xml"
-#EXTINF:-1 tvg-chno="101" tvg-id="tv1" tvg-name="RTM1",RTM1
+#EXTINF:-1 tvg-chno="101" tvg-id="tv1" tvg-name="TV1",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
-#EXTINF:-1 tvg-chno="102" tvg-id="tv2" tvg-name="RTM2",RTM2
+#EXTINF:-1 tvg-chno="102" tvg-id="tv2" tvg-name="TV2",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=1
-#EXTINF:-1 tvg-chno="103" tvg-id="tv3" tvg-name="TV3 Malaysia",TV3 Malaysia
+#EXTINF:-1 tvg-chno="103" tvg-id="tv3" tvg-name="TV3",TV3
 https://api.dani-dev.co.za/v1/stream/tonton/live/tv3
 #EXTINF:-1 tvg-chno="104" tvg-id="tvs" tvg-name="TVS",TVS
 https://api.dani-dev.co.za/v1/stream/mytv/live/tvs

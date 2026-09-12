@@ -3,7 +3,7 @@
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
 #EXTINF:-1 tvg-id="tv2",RTM2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=1
-#EXTINF:-1 tvg-id="tv3",TV3
+#EXTINF:-1 tvg-id="tv3",TV3 Malaysia
 https://api.dani-dev.co.za/v1/stream/tonton/live/tv3
 #EXTINF:-1 tvg-id="tvs",TVS
 https://api.dani-dev.co.za/v1/stream/mytv/live/tvs

@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://api.dani-dev.co.za/v1/stream/epg.xml?provider=tonton"
+#EXTM3U x-tvg-url="https://api.dani-dev.co.za/v1/stream/epg.xml"
 #EXTINF:-1 tvg-id="tv1",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
 #EXTINF:-1 tvg-id="tv2",TV2
@@ -11,7 +11,7 @@ https://api.dani-dev.co.za/v1/stream/mytv/live/tvs
 https://api.dani-dev.co.za/v1/stream/mytv/live/tvsplus
 #EXTINF:-1 tvg-id="tv-okey",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=1
-#EXTINF:-1,NTV7
+#EXTINF:-1 tvg-id="didiktv",NTV7
 https://api.dani-dev.co.za/v1/stream/tonton/live/ntv7
 #EXTINF:-1 tvg-id="8tv",8TV
 https://api.dani-dev.co.za/v1/stream/tonton/live/8tv

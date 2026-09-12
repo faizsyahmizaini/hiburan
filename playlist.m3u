@@ -1,35 +1,35 @@
 #EXTM3U x-tvg-url="https://api.dani-dev.co.za/v1/stream/epg.xml"
-#EXTINF:-1 tvg-chno="101" tvg-id="tv1" tvg-name="TV1",TV1
+#EXTINF:-1 tvg-chno="101" tvg-id="tv1" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/RTM1.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
-#EXTINF:-1 tvg-chno="102" tvg-id="tv2" tvg-name="TV2",TV2
+#EXTINF:-1 tvg-chno="102" tvg-id="tv2" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/RTM2.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=1
-#EXTINF:-1 tvg-chno="103" tvg-id="tv3" tvg-name="TV3",TV3
+#EXTINF:-1 tvg-chno="103" tvg-id="tv3" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_3.png",TV3
 https://api.dani-dev.co.za/v1/stream/tonton/live/tv3
-#EXTINF:-1 tvg-chno="104" tvg-id="tvs" tvg-name="TVS",TVS
+#EXTINF:-1 tvg-chno="104" tvg-id="tvs" tvg-name="TVS" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/TVS.png",TVS
 https://api.dani-dev.co.za/v1/stream/mytv/live/tvs
-#EXTINF:-1 tvg-chno="105" tvg-id="tvsplus" tvg-name="TVS+",TVS+
+#EXTINF:-1 tvg-chno="105" tvg-id="tvsplus" tvg-name="TVS+" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/TVS.png",TVS+
 https://api.dani-dev.co.za/v1/stream/mytv/live/tvsplus
-#EXTINF:-1 tvg-chno="106" tvg-id="tv-okey" tvg-name="Okey",Okey
+#EXTINF:-1 tvg-chno="106" tvg-id="tv-okey" tvg-name="Okey" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/RTM_Okey.png",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=1
-#EXTINF:-1 tvg-chno="107" tvg-id="didiktv" tvg-name="NTV7",NTV7
+#EXTINF:-1 tvg-chno="107" tvg-id="didiktv" tvg-name="NTV7" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_7.png",NTV7
 https://api.dani-dev.co.za/v1/stream/tonton/live/ntv7
-#EXTINF:-1 tvg-chno="108" tvg-id="8tv" tvg-name="8TV",8TV
+#EXTINF:-1 tvg-chno="108" tvg-id="8tv" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_8.png",8TV
 https://api.dani-dev.co.za/v1/stream/tonton/live/8tv
-#EXTINF:-1 tvg-chno="109" tvg-id="tv9" tvg-name="TV9",TV9
+#EXTINF:-1 tvg-chno="109" tvg-id="tv9" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_9.png",TV9
 https://api.dani-dev.co.za/v1/stream/tonton/live/tv9
-#EXTINF:-1 tvg-chno="110" tvg-id="dramasangat" tvg-name="Drama Sangat",Drama Sangat
+#EXTINF:-1 tvg-chno="110" tvg-id="dramasangat" tvg-name="Drama Sangat" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_DS.png",Drama Sangat
 https://api.dani-dev.co.za/v1/stream/tonton/live/dramasangat
-#EXTINF:-1 tvg-chno="111" tvg-id="berita-rtm" tvg-name="Berita RTM",Berita RTM
+#EXTINF:-1 tvg-chno="111" tvg-id="berita-rtm" tvg-name="Berita RTM" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/Berita_RTM.png",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=1
 #EXTINF:-1 tvg-chno="112" tvg-name="Astro Awani",Astro Awani
 https://resolver-smoky.vercel.app/api/resolve?channel=astroawani
 #EXTINF:-1 tvg-chno="113" tvg-name="BBC News",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
-#EXTINF:-1 tvg-chno="114" tvg-id="al-jazeera-english-hd" tvg-name="Al Jazeera",Al Jazeera
+#EXTINF:-1 tvg-chno="114" tvg-id="al-jazeera-english-hd" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/intl/AlJazeeraEN.png",Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-chno="115" tvg-id="cna" tvg-name="CNA",CNA
+#EXTINF:-1 tvg-chno="115" tvg-id="cna" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/intl/CNA.png",CNA
 https://api.dani-dev.co.za/v1/stream/mytv/live/cna
-#EXTINF:-1 tvg-chno="116" tvg-id="dw" tvg-name="DW",DW
+#EXTINF:-1 tvg-chno="116" tvg-id="dw" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/intl/DWNews.png",DW
 https://api.dani-dev.co.za/v1/stream/mytv/live/dw
-#EXTINF:-1 tvg-chno="117" tvg-id="sukan-rtm" tvg-name="Sukan+",Sukan+
+#EXTINF:-1 tvg-chno="117" tvg-id="sukan-rtm" tvg-name="Sukan+" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/Sukan_RTM.png",Sukan+
 https://api.dani-dev.co.za/v1/stream/mytv/live/sukan

@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1,1 - TV1
+#EXTINF:-1,TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
-#EXTINF:-1,2 - TV2
+#EXTINF:-1,TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=1
-#EXTINF:-1,3 - TV3
+#EXTINF:-1,TV3
 https://api.dani-dev.co.za/v1/stream/tonton/live/tv3
-#EXTINF:-1,4 - TVS
+#EXTINF:-1,TVS
 https://api.dani-dev.co.za/v1/stream/tvs/live/tvs
-#EXTINF:-1,5 - TVS Plus
+#EXTINF:-1,TVS Plus
 https://api.dani-dev.co.za/v1/stream/tvsplus/live/tvsplus
-#EXTINF:-1,6 - Drama Sangat
+#EXTINF:-1,Drama Sangat
 https://api.dani-dev.co.za/v1/stream/tonton/live/dramasangat
-#EXTINF:-1,7 - NTV7
+#EXTINF:-1,NTV7
 https://api.dani-dev.co.za/v1/stream/tonton/live/ntv7
-#EXTINF:-1,8 - 8TV
+#EXTINF:-1,8TV
 https://api.dani-dev.co.za/v1/stream/tonton/live/8tv
-#EXTINF:-1,9 - TV9
+#EXTINF:-1,TV9
 https://api.dani-dev.co.za/v1/stream/tonton/live/tv9
-#EXTINF:-1,10 - Berita RTM
+#EXTINF:-1,Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=1
-#EXTINF:-1,11 - Okey
+#EXTINF:-1,Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=1

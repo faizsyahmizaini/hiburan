@@ -32,4 +32,4 @@ https://api.dani-dev.co.za/v1/stream/mytv/live/cna
 #EXTINF:-1 tvg-id="dw",DW
 https://api.dani-dev.co.za/v1/stream/mytv/live/dw
 #EXTINF:-1 tvg-id="sukan-rtm",Sukan+
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=1
+https://api.dani-dev.co.za/v1/stream/mytv/live/sukan

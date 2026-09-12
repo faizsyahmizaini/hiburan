@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
+#EXTINF:-1,TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=1
+#EXTINF:-1,TV3
+https://api.dani-dev.co.za/v1/stream/tonton/live/tv3
+#EXTINF:-1,Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=1
+#EXTINF:-1,NTV7
+https://api.dani-dev.co.za/v1/stream/tonton/live/ntv7
+#EXTINF:-1,8TV
+https://api.dani-dev.co.za/v1/stream/tonton/live/8tv
+#EXTINF:-1,TV9
+https://api.dani-dev.co.za/v1/stream/tonton/live/tv9
+#EXTINF:-1,Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=1
+#EXTINF:-1,Drama Sangat
+https://api.dani-dev.co.za/v1/stream/tonton/live/dramasangat

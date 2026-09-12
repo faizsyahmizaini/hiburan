@@ -29,8 +29,6 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="CNA",CNA
 https://api.dani-dev.co.za/v1/stream/mytv/live/cna
-#EXTINF:-1 tvg-id="NHKWorldPremium",NHK World
-https://api.dani-dev.co.za/v1/stream/mytv/live/nhk-world
 #EXTINF:-1 tvg-id="DW",DW
 https://api.dani-dev.co.za/v1/stream/mytv/live/dw
 #EXTINF:-1 tvg-id="Sukan+",Sukan+

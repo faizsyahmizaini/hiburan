@@ -6,7 +6,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=1
 #EXTINF:-1,TV3
 https://api.dani-dev.co.za/v1/stream/tonton/live/tv3
 #EXTINF:-1,TVS
-https://live-tvs.tvsarawak.my/live/tvs.m3u8
+https://api.dani-dev.co.za/v1/stream/tvs/live/tvs
 #EXTINF:-1,TVS+
 https://api.dani-dev.co.za/v1/stream/tvsplus/live/tvsplus
 #EXTINF:-1,Okey

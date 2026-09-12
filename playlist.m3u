@@ -21,4 +21,6 @@ https://api.dani-dev.co.za/v1/stream/tonton/live/tv9
 https://api.dani-dev.co.za/v1/stream/tonton/live/dramasangat
 #EXTINF:-1,Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=1
+#EXTINF:-1,Astro Awani
+https://www.youtube.com/watch?v=mkVyNaGee8A
 

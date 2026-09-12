@@ -33,3 +33,5 @@ https://api.dani-dev.co.za/v1/stream/mytv/live/cna
 https://api.dani-dev.co.za/v1/stream/mytv/live/nhk-world
 #EXTINF:-1 tvg-id="dw",DW
 https://api.dani-dev.co.za/v1/stream/mytv/live/dw
+#EXTINF:-1 tvg-id="sukan-rtm",Sukan RTM
+https://api.dani-dev.co.za/v1/stream/mytv/live/sukan

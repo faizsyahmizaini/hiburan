@@ -33,5 +33,5 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://api.dani-dev.co.za/v1/stream/mytv/live/dw
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/Sukan_RTM.png",RTM Sukan+
 https://api.dani-dev.co.za/v1/stream/mytv/live/sukan
-#EXTINF:-1 tvg-logo="https://assets.bwbx.io/images/izrptLrH5AWw/v1/400x225.jpg",Bloomberg TV Asia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/faizsyahmizaini/tv-malaysia/main/bloomberg_logo_cropped.png",Bloomberg TV Asia
 https://dai.google.com/linear/hls/pa/event/FvrjI2MQSs6_bNTURP2CaA/stream/3dbcb4a3-4eeb-4977-923a-2849ff89b95f:DLS/master.m3u8

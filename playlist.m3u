@@ -5,12 +5,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_3.png",Media Prima TV3
 https://api.dani-dev.co.za/v1/stream/tonton/live/tv3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/TVS.png",TVS Sarawak
-https://api.dani-dev.co.za/v1/stream/mytv/live/tvs
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/TVS.png",TVS+
-https://api.dani-dev.co.za/v1/stream/mytv/live/tvsplus
+#EXTINF:-1 tvg-logo="https://tinyurl.com/4ape67u9",Ria
+https://tinyurl.com/mr3fe7mn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/RTM_Okey.png",RTM Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/Sukan_RTM.png",RTM Sukan+
+https://api.dani-dev.co.za/v1/stream/mytv/live/sukan
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_7.png",Media Prima NTV7
 https://api.dani-dev.co.za/v1/stream/tonton/live/ntv7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_8.png",Media Prima 8TV
@@ -19,10 +19,10 @@ https://api.dani-dev.co.za/v1/stream/tonton/live/8tv
 https://api.dani-dev.co.za/v1/stream/tonton/live/tv9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_DS.png",Media Prima Drama Sangat
 https://api.dani-dev.co.za/v1/stream/tonton/live/dramasangat
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/Berita_RTM.png",Berita RTM / RTM World
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=1
-#EXTINF:-1 tvg-logo="https://media.astroawani.com/awani/media/uploads/logo/2025-11/astroawani_logo.webp",Awani
-https://resolver-smoky.vercel.app/api/resolve?channel=astroawani
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/TVS.png",TVS Sarawak
+https://api.dani-dev.co.za/v1/stream/mytv/live/tvs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/TVS.png",TVS+
+https://api.dani-dev.co.za/v1/stream/mytv/live/tvsplus
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/intl/AlJazeeraEN.png",Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1,BBC News
@@ -33,5 +33,7 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1,DW
 https://api.dani-dev.co.za/v1/stream/mytv/live/dw
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/Sukan_RTM.png",RTM Sukan+
-https://api.dani-dev.co.za/v1/stream/mytv/live/sukan
+#EXTINF:-1 tvg-logo="https://media.astroawani.com/awani/media/uploads/logo/2025-11/astroawani_logo.webp",Awani
+https://resolver-smoky.vercel.app/api/resolve?channel=astroawani
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/Berita_RTM.png",Berita RTM / RTM World
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=1

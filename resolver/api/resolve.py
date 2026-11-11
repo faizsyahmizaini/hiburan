@@ -26,6 +26,13 @@ class handler(BaseHTTPRequestHandler):
             try:
                 with yt_dlp.YoutubeDL({"quiet": True, "format": "best"}) as ydl:
                     info = ydl.extract_info(CHANNELS[channel], download=False)
+
+                # Pick the highest-resolution stream rather than yt-dlp's default choice
+                formats = [f for f in info.get("formats") or [] if f.get("url")]
+                if formats:
+                    top = max(formats, key=lambda f: (f.get("height") or 0, f.get("tbr") or 0))
+                    hls_url = top["url"]
+                else:
                     hls_url = info.get("url")
 
                 if not hls_url:
